@@ -1,1 +1,4 @@
 plot()
+
+hist()
+boxplot()
